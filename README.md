@@ -50,3 +50,6 @@ python3 main.py
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
 Git error handling practical completed.
+
+## Description
+CSE103 Lab 3 repository demonstrating Git version control and collaboration.
